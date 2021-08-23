@@ -1,2 +1,8 @@
 # LNURL-Extension
-Extension provides support for __lnurl-pay__ __lnurl-withdraw__ __Lightning Address__
+Extension provides support for :
+
+__Lightning Address__
+
+__lnurl-pay__ 
+
+__lnurl-withdraw__ 

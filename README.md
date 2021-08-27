@@ -7,4 +7,4 @@ __lnurl-pay__
 
 __lnurl-withdraw__ 
 
-Extension runs as a microservice in support of the LndHub-PlusMinus or the legacy BlueWallet LndHub repo.
+Extension runs as a microservice in support to the LndHub-PlusMinus or the legacy BlueWallet LndHub repo.
